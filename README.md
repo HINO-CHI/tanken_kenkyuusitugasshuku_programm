@@ -1,0 +1,2 @@
+# tanken_kenkyuusitugasshuku_programm
+Make 10という４つの数に足して四則演算と括弧を用いて１０を作成するというゲームです。
